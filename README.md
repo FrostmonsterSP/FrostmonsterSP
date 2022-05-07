@@ -4,6 +4,6 @@
 
 It'a bit empty here for now, but it won't be forever.
 
-In this a repo where I will be posting news about my projects and releases.
+This a page where I will be posting news about my projects and releases.
 
 **Have a nice day!**
